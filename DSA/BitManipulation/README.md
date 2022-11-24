@@ -1,8 +1,9 @@
 # BIT Manipulation
 
 ## Basic over
-<p color = 'red'>
 - setBit
+<p color = 'red'>
+
  	n = 01001
 	Suppose we need to get bit at position, i = 2;
 		1 << i = 0100
