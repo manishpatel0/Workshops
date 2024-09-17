@@ -1,3 +1,12 @@
+import 'Varibles.dart' as varibles;
+
+void myrun(){
+  varibles.run();
+
+
+
+}
+
 int calculate() {
-  return 6 * 7;
+  return 6;
 }
